@@ -8,7 +8,7 @@
 define('SWEETCAPTCHA_APP_ID', 56291); // your application id (change me)
 define('SWEETCAPTCHA_KEY', '0b74066b00bbca1c1df13edde375a09c'); // your application key (change me)
 define('SWEETCAPTCHA_SECRET', '7a9befff7cea8b3e99b12ebe178fdd33'); // your application secret (change me)
-define('SWEETCAPTCHA_PUBLIC_URL', 'sweetcaptcha_ca.php'); // public http url to this file
+define('SWEETCAPTCHA_PUBLIC_URL', 'ca.enadomel.hu'); // public http url to this file
 
 
 /////==== Do not change below here ===/////
